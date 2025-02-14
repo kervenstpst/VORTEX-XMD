@@ -5,11 +5,11 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "",
+SESSION_ID: process.env.SESSION_ID || "HansTz~UGsGXZza#s2k1aKxeXpb1tB7gdVMpqPZf5smYeNn1xwabGW6a0XE",
 // add your Session Id 
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot
-BOT_NAME: process.env.BOT_NAME || "𝐕𝐎𝐑𝐓𝐄𝐗-𝐗𝐌𝐃",
+BOT_NAME: process.env.BOT_NAME || "🌹𝐁𝐎𝐓𝐈𝐏 𝐌𝐏𝐊🌹",
 // add bot namw here for menu
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
 // make this true for custum emoji react    
@@ -17,9 +17,9 @@ CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️�
 // chose custom react emojis by yourself 
 DELETE_LINKS: process.env.DELETE_LINKS || "true",
 // automatic delete links witho remove member 
-OWNER_NUMBER: process.env.OWNER_NUMBER || "255756530143",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "50947805453",
 // add your bot owner number
-OWNER_NAME: process.env.OWNER_NAME || "𝐕𝐎𝐑𝐓𝐄𝐗-𝐗𝐌𝐃",
+OWNER_NAME: process.env.OWNER_NAME || "🌹𝐁𝐎𝐓𝐈𝐏 𝐌𝐏𝐊🌹",
 // add bot owner name
 DESCRIPTION: process.env.DESCRIPTION || "*© 𝐕𝐎𝐑𝐓𝐄𝐗-𝐗𝐌𝐃*",
 // add bot owner name    
@@ -45,7 +45,7 @@ ANTI_LINK: process.env.ANTI_LINK || "true",
 // make anti link true,false for groups 
 AUTO_VOICE: process.env.AUTO_VOICE || "false",
 // make true for send automatic voices
-AUTO_STICKER: process.env.AUTO_STICKER || "false",
+AUTO_STICKER: process.env.AUTO_STICKER || "true",
 // make true for automatic stickers 
 AUTO_REPLY: process.env.AUTO_REPLY || "false",
 // make true or false automatic text reply 
